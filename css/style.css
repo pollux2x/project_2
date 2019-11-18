@@ -1,0 +1,23 @@
+﻿.container {
+    width: auto;
+    height: 400px;
+    background-color: indianred;
+}
+.box {
+    display: inline-block;
+    width: 300px;   
+    margin: 33px 20px;
+    border: 2px solid black;
+    padding: 8px;
+    text-align: justify;
+    color: #222222;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 24px;
+}
+    .grafity {
+        background: url("../img/fill_12.jpg") center center/cover no-repeat;
+    }
+h1 {
+    text-align: center;
+}
